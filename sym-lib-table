@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 8085)(type Legacy)(uri "C:/Users/Tod/Documents/KiCad/8085 Computer/Libraries/8085.lib")(options "")(descr "8085 CPU"))
+  (lib (name 8085-Computer-rescue)(type Legacy)(uri "${KIPRJMOD}/8085 Computer-rescue.lib")(options "")(descr ""))
+)
